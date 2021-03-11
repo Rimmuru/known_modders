@@ -9,4 +9,4 @@ EieraufSpeck420    | 26270072     | GTA Online    | In-Game Chat / Friends with 
 JorganDEX    | 156578574    | GTA Online    | Name Spoofer (femboy) | Stand
 AgentSniperIII   | 168894955    | GTA Online    | Altered Host Token / Sync Crash / Money Drop | Ozark
 ChanxyFN   | 169504570    | GTA Online    | Lobby Time | 
-loAding_69 | 172300351    | GTA Online    | Kicking Players | 2take1
+loAding_69 | 172300351    | GTA Online    | Kicking & Crashing Players | 2take1
