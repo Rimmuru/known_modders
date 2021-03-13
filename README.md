@@ -1,4 +1,4 @@
-SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | NOTES | Menu
+SOCIALCLUB NAME | ROCKSTAR ID | TITLES ACTIVE IN | NOTES | Menu
 ------------ | ------------- | ------------- | ------------- | ------------- 
 craNe_ph     | 130098219     | GTA Online    | Freeze     | 
 DogeHawke    | 171452428     | GTA Online    | Money Drop | 
@@ -15,3 +15,4 @@ roblox_camgirl | 117965678    | GTA Online    | Session Weather |
 THEEAGLE_28 | 183065225   | GTA Online    | Session Weather | 
 R1_Alucard | 55149667   | GTA Online    | Session Weather / Spawning Pickups | 
 CISOWIANKA12334 | 181021463   | GTA Online    | God Mode | Free Menu (Not sure which)
+XeBirb | 53895802   | GTA Online    | Name Changer | 2take1
