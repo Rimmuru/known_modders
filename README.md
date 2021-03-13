@@ -14,4 +14,4 @@ Rockondj15 | 103637663    | GTA Online    | Kicking Players |
 roblox_camgirl | 117965678    | GTA Online    | Session Weather | 
 THEEAGLE_28 | 183065225   | GTA Online    | Session Weather | 
 R1_Alucard | 55149667   | GTA Online    | Session Weather / Spawning Pickups | 
-SumiiiChan | 175779301  | GTA Online    | Phone Message Spam / Ghost Session | 
+SumiiiChan | 175779301  | GTA Online    | Phone Message Spam / Ghost Session | Ozark (Tester)
