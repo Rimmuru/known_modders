@@ -17,3 +17,4 @@ R1_Alucard | 55149667   | GTA Online    | Session Weather / Spawning Pickups |
 CISOWIANKA12334 | 181021463   | GTA Online    | God Mode | Free Menu (Not sure which)
 XeBirb | 53895802   | GTA Online    | Name Changer | 2take1
 Dont_Ban_Bunny | 184420541 | GTA Online | Teleport | Cherax
+Marcus_RSG | 174918387 | GTA Online | Is tester for Paragon | Paragon
