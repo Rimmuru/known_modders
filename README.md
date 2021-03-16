@@ -19,3 +19,4 @@ XeBirb | 53895802   | GTA Online    | Name Changer | 2take1
 Dont_Ban_Bunny | 184420541 | GTA Online | Teleport | Cherax
 Marcus_RSG | 174918387 | GTA Online | Is tester for Paragon | Paragon
 Julien21xD | 151720675 | GTA Online | God Mode | 
+Gamer_Freek_1000 | 132134786 | GTA Online | Freeze | 
