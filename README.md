@@ -21,3 +21,5 @@ Marcus_RSG | 174918387 | GTA Online  | Is tester for Paragon | Paragon
 Julien21xD | 151720675 | GTA Online  | God Mode | 
 Gamer_Freek_1000 | 132134786 | GTA Online  | Freeze | 
 Devil-_-Eyes | 87445908 | Red Dead Online |  | Ozark
+SilverTobi | 130712449 | GTA Online | Crashing Legit Players | Ozark
+--IGreekWarrior- | 174812420 | GTA Online | Crashing Lobbies & Stalking Players | Paragon
