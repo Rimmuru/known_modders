@@ -1,3 +1,5 @@
+## Outdated - last update: 4 months ago
+
 SOCIALCLUB NAME | ROCKSTAR ID | TITLES ACTIVE IN | NOTES | Menu
 ------------ | ------------- | ------------- | ------------- | ------------- 
 craNe_ph     | 130098219     | GTA Online     | Freeze     | 
