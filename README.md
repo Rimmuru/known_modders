@@ -29,3 +29,9 @@ Shamsir05 | 174138376 | GTA Online | Altered Host Token |
 Tramalama4 | 177012601 | GTA Online | RAC | 
 Smugxxx | 86889242 | GTA Online | RAC | 
 ExPo_SquareFreak | 190508244 | GTA Online | Desyncing / Exploding Legit/Mod players / Chat Spoof | Cherax
+Blackplayz | 134227043 | GTA Online | RAC | 
+"Heineken" (Not real name) | 156091109(?) | GTA Online | Altered Host Token | 
+Aviatororphee83 | 60769206 | GTA Online | SuperJump | 
+boda1978 | 165943597(?) | GTA Online | SCID Spoof | 
+Lisaaa18 | 168987685 | GTA Online | SuperJump | 
+Dyticc | 142174839 | GTA Online | RAC | 
