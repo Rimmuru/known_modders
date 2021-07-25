@@ -26,3 +26,6 @@ Gamer_Freek_1000 | 132134786 | GTA Online  | Freeze |
 SilverTobi | 130712449 | GTA Online | Crashing Legit Players | Ozark
 --IGreekWarrior- | 174812420 | GTA Online | Crashing Lobbies & Stalking Players | Paragon(e)
 Shamsir05 | 174138376 | GTA Online | Altered Host Token | 
+Tramalama4 | 177012601 | GTA Online | RAC | 
+Smugxxx | 86889242 | GTA Online | RAC | 
+ExPo_SquareFreak | 190508244 | GTA Online | Desyncing / Exploding Legit/Mod players / Chat Spoof | Cherax
