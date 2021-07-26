@@ -35,3 +35,6 @@ Aviatororphee83 | 60769206 | GTA Online | SuperJump |
 boda1978 | 165943597(?) | GTA Online | SCID Spoof | 
 Lisaaa18 | 168987685 | GTA Online | SuperJump | 
 Dyticc | 142174839 | GTA Online | RAC | 
+
+PusiPutin | 234123567 | GTA Online | SCID Spoof (168839768) | 
+ShiniKushi | 67908563 | GTA Online | Altered Host Token | 
