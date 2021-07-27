@@ -35,6 +35,11 @@ Aviatororphee83 | 60769206 | GTA Online | SuperJump |
 boda1978 | 165943597(?) | GTA Online | SCID Spoof | 
 Lisaaa18 | 168987685 | GTA Online | SuperJump | 
 Dyticc | 142174839 | GTA Online | RAC | 
-
 PusiPutin | 234123567 | GTA Online | SCID Spoof (168839768) | 
 ShiniKushi | 67908563 | GTA Online | Altered Host Token | 
+Barbiehunter | 113028841 | GTA Online | Altered Host Token | 2take1
+AndersBreivik | 19061020 (Menu gave 189275052) | GTA Online | Altered Host Token / Showed as Dev | 
+Frank-Lucas57 | 181552559 | GTA Online | Superjump | 
+xxmartynas345 | 130385444 | GTA Online | Model Change | 
+Xa4uSexa | 150303392 | GTA Online | RAC |
+Revo303 | 101237535 | GTA Online | RAC |
