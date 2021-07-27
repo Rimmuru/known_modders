@@ -45,3 +45,5 @@ xxmartynas345 | 130385444 | GTA Online | Model Change |
 Xa4uSexa | 150303392 | GTA Online | RAC | 
 Revo303 | 101237535 | GTA Online | RAC | 
 stormwolf59 | 23350717 | GTA Online | SuperJump | 
+A_D_D_E_Z | 158348966 | GTA Online | SuperJump (Funny to troll) | 
+Culater41 | 148300705 | GTA Online | SuperJump | 
