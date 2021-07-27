@@ -41,5 +41,6 @@ Barbiehunter | 113028841 | GTA Online | Altered Host Token | 2take1
 AndersBreivik | 19061020 (Menu gave 189275052) | GTA Online | Altered Host Token / Showed as Dev | 
 Frank-Lucas57 | 181552559 | GTA Online | Superjump | 
 xxmartynas345 | 130385444 | GTA Online | Model Change | 
-Xa4uSexa | 150303392 | GTA Online | RAC |
-Revo303 | 101237535 | GTA Online | RAC |
+Xa4uSexa | 150303392 | GTA Online | RAC | 
+Revo303 | 101237535 | GTA Online | RAC | 
+stormwolf59 | 23350717 | GTA Online | SuperJump | 
