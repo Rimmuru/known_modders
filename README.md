@@ -46,7 +46,6 @@ Xa4uSexa | 150303392 | GTA Online | RAC |
 Revo303 | 101237535 | GTA Online | RAC | 
 stormwolf59 | 23350717 | GTA Online | SuperJump | 
 A_D_D_E_Z | 158348966 | GTA Online | SuperJump (Funny to troll) | 
-Culater41 | 148300705 | GTA Online | SuperJump | 
 The_Foxis | 180267717 | GTA Online | RAC |
 Gravity | 113852171 | GTA Online | Name Changer |
 S_kill_af_joy_e | 127563567 | GTA Online | | 2Take1
@@ -55,3 +54,4 @@ Hodgeneww93 | 1111111111(?) | GTA Online | SCID Spoof |
 DannyliuxA | 194080532 | GTA Online | Crashing | Cherax
 HeadShot_Proto | 191966698 | GTA Online | Crashing | Cherax
 Syndicate (Not real name) | GTA Online | Altered Host Token | Ozark
+Culater41 | 148300705 | GTA Online | SuperJump | 
