@@ -39,5 +39,7 @@ addisonre15 | 183816759 | GTA Online | Attachments on legit players | Segs
 The_Foxis | 180267717 | GTA Online | RAC |
 Gravity | 113852171 | GTA Online | Name Changer |
 S_kill_af_joy_e | 127563567 | GTA Online | 2Take1
-Modder | 194450011 | Gta Online | Gravity
-Hodgeneww93 | 1111111111(spoofed) | SCID Spoof | GTA Online | 
+Modder | 194450011 | GTA Online | Gravity
+Hodgeneww93 | 1111111111(?) | GTA Online | SCID Spoof |
+DannyliuxA | 194080532 | GTA Online | Cherax
+HeadShot_Proto | 191966698 | GTA Online | Cherax
