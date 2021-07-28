@@ -41,5 +41,5 @@ Gravity | 113852171 | GTA Online | Name Changer |
 S_kill_af_joy_e | 127563567 | GTA Online | 2Take1
 Modder | 194450011 | GTA Online | Gravity
 Hodgeneww93 | 1111111111(?) | GTA Online | SCID Spoof |
-DannyliuxA | 194080532 | GTA Online | Cherax
-HeadShot_Proto | 191966698 | GTA Online | Cherax
+DannyliuxA | 194080532 | GTA Online | Crashing | Cherax
+HeadShot_Proto | 191966698 | GTA Online | Crashing | Cherax
