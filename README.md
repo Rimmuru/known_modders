@@ -54,4 +54,3 @@ Hodgeneww93 | 1111111111(?) | GTA Online | SCID Spoof |
 DannyliuxA | 194080532 | GTA Online | Crashing | Cherax
 HeadShot_Proto | 191966698 | GTA Online | Crashing | Cherax
 Syndicate (Not real name) | GTA Online | Altered Host Token | Ozark
-Culater41 | 148300705 | GTA Online | SuperJump | 
