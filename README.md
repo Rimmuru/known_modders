@@ -54,3 +54,15 @@ Hodgeneww93 | 1111111111(?) | GTA Online | SCID Spoof |
 DannyliuxA | 194080532 | GTA Online | Crashing | Cherax
 HeadShot_Proto | 191966698 | GTA Online | Crashing | Cherax
 Syndicate (Not real name) | GTA Online | Altered Host Token | Ozark
+XxJOKAIRxX | 137454648 GTA Online | Cherax
+LuckyHurryCane | 194336368 GTA Online |Money Drop | Elice
+Fire_Fly1991 | 193794301 | GTA Online | Money Drop Elice
+Poyo_Querico | 194364418 | GTA Online |  
+YouSuck | 3264561 | GTA Online | SCID Spoof | 
+IchSageDas_abc | 168428551 | GTA Online | Teleporting |kiddions
+melk59119 | 184682958 | GTA Online | Superjump |
+Katlee | 512168681 | SCID Spoof |
+o0_nachtnebel_0o | 88299236 | RAC
+renasz | 160655323 | GTA Online | RAC |
+Cocaina | 173916486 | GTA Online | Desync Kick |
+L7imited | 134769850 | GTA Online | Money Drops | Some Paste
