@@ -1,4 +1,4 @@
-## Outdated - last update: 4 months ago
+## Outdated - last update: 8/8/21
 
 SOCIALCLUB NAME | ROCKSTAR ID | TITLES ACTIVE IN | NOTES | Menu
 ------------ | ------------- | ------------- | ------------- | ------------- 
@@ -59,10 +59,27 @@ LuckyHurryCane | 194336368 GTA Online |Money Drop | Elice
 Fire_Fly1991 | 193794301 | GTA Online | Money Drop Elice
 Poyo_Querico | 194364418 | GTA Online |  
 YouSuck | 3264561 | GTA Online | SCID Spoof | 
-IchSageDas_abc | 168428551 | GTA Online | Teleporting |kiddions
+IchSageDas_abc | 168428551 | GTA Online | Teleporting | Kiddions
 melk59119 | 184682958 | GTA Online | Superjump |
 Katlee | 512168681 | SCID Spoof |
 o0_nachtnebel_0o | 88299236 | RAC
 renasz | 160655323 | GTA Online | RAC |
 Cocaina | 173916486 | GTA Online | Desync Kick |
 L7imited | 134769850 | GTA Online | Money Drops | Some Paste
+Runantic | 22327857 | GTA Online | RAC | Cherax
+EmreKingGta5 | 194658236 | GTA Online | GodMode | 
+Clerie | 154768411 | GTA Online | SCID Spoof | 
+Mousie_v2 | 12381015 | GTA Online | IP Spoof |
+J_Joness290 | 192014975 | GTA Online | RAC |
+PadyHasPower | 141948507 | GTA Online | Modded Host Token |
+Darth_Vader153 | 109018738 | GTA Online | GodMode |
+yaodai9100 | 193326372 | GTA Online | SuperJump |
+zhax666 | 194412917 | GTA Online | Chat Spam |
+Stafford___8 | 157617647 | GTA Online | SuperJump |
+dark-goku | 103307603 | GTA Online | Attemped Kick | Kiddions
+valpool | 62925952 | GTA Online | Model Change | Some Paste
+K0sKiller | 160762534 | GTA Online | GodMode PvP | Kiddions
+DlcksInAss | 183195654 | GTA Online | Super Run(Fun to annoy) | 
+Officer | 399274? | GTA Online | Model Change | Ozark
+
+
