@@ -2,7 +2,6 @@
 
 SOCIALCLUB NAME | ROCKSTAR ID | TITLES ACTIVE IN | NOTES | Menu
 ------------ | ------------- | ------------- | ------------- | ------------- 
-
 --IGreekWarrior- | 174812420 | GTA Online | Crashing Lobbies & Stalking Players | Paragon(e)
 -Ann-Marie- | 58761407 | GTA Online | Invalid Object
 -Toast-9 | 131803068 | GTA Online | Net Sync Crash
