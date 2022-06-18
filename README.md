@@ -81,5 +81,62 @@ valpool | 62925952 | GTA Online | Model Change | Some Paste
 K0sKiller | 160762534 | GTA Online | GodMode PvP | Kiddions
 DlcksInAss | 183195654 | GTA Online | Super Run(Fun to annoy) | 
 Officer | 399274? | GTA Online | Model Change | Ozark
-
+CrAzy-Minoor | 111238991 | GTA Online | Altered Host Token
+xCuteBunnyx | 192738080 | GTA Online | Session Mismatch
+GameOverBP1 | 149386290 | GTA Online | Karen
+DZHAMPER | 206239612 | GTA Online | Session Mismatch
+smolski | 5935716 | GTA Online | Frame Flags
+AllureNan | 105038645 | GTA Online | RAC
+BBQ | 232369013 | GTA Online | IP Spoof
+NainIota | 66743749 | GTA Online | Session Mismatch
+jamied-96 | 64589747 | GTA Online | Invalid Object
+TRysta09 | 160567021 | GTA Online | Invalid Object
+amy | 789453185 | GTA Online | Session Mismatch
+LidlCarrierBag | 210623130 | GTA Online | Net Sync Crash
+Brandino-_- | 202279119 | GTA Online | Net Sync Crash
+DeityZtuN | 165255765 | GTA Online | Net Sync Crash
+Zsemlye_ | 146444668 | GTA Online | Net Sync Crash
+Ajaleht | 162933235 | GTA Online | Net Sync Crash
+Lonelysight | 160354483 | GTA Online | Net Sync Crash
+Tomerzz65 | 54295503 | GTA Online | Net Sync Crash
+-Toast-9 | 131803068 | GTA Online | Net Sync Crash
+simoner_mitico | 209758259 | GTA Online | Sound Spam
+LIL_WAVY_ | 195087776 | GTA Online | Net Sync Crash
+Lil_Serzy | 195066682 | GTA Online | Net Sync Crash
+KjellBergqvist | 186613020 | GTA Online | Net Sync Crash
+wigglyhugge72 | 210754513 | GTA Online | Net Sync Crash
+tayler1401 | 208339601 | GTA Online | Net Sync Crash
+Tytittop | 179353924 | GTA Online | Net Sync Crash
+Kjhelaas | 113184852 | GTA Online | Net Sync Crash
+xudheuh | 133584308 | GTA Online | Net Sync Crash
+chipolatatata | 182298933 | GTA Online | Net Sync Crash
+YoutubeFr6tyy | 170076559 | GTA Online | Net Sync Crash
+querlyteam | 102914138 | GTA Online | Net Sync Crash
+fortzancudoco | 175535234 | GTA Online | Net Sync Crash
+-Ann-Marie- | 58761407 | GTA Online | Invalid Object
+Vito123nete | 195323819 | GTA Online | Net Sync Crash
+no_nem666 | 134563315 | GTA Online | Frame Flags
+TheAlminyO | 193587117 | GTA Online | Frame Flags
+kingikongo60386 | 210800625 | GTA Online | | Frame Flags
+u-foka | 120316589 | GTA Online | Altered Host Token
+Tang1Men | 185945873 | GTA Online | Suspicious Activity
+Maxxter5 | 119822747 | GTA Online | Invalid Object
+Lusor-Ziegenmann | 167232013 | GTA Online | | Invalid Object
+Cyth-Infinite | 30153680 | GTA Online | Invalid Object
+Gargamel | 1003276361 | GTA Online | Session Mismatch
+5_-_20 | 31083255 | GTA Online | RAC
+romadisho | 173579355 | GTA Online | Frame Flags
+Zaljais_Prieks | 98798582 | GTA Online | Session Mismatch
+GtaLenny3650 | 182085943 | GTA Online | Frame Flags
+BlooTheBun | 197994420 | GTA Online | Frame Flags
+2h39fe | 199519873 | GTA Online | Suspicious Activity
+globesquatter | 52420730 | GTA Online | RAC
+Bountyhunter | 349102 | GTA Online | Session Mismatch
+Teroxplayz_ | 157718626 | GTA Online | Net Sync Crash
+xXmelanieXx33 | 105950017 | GTA Online | Net Sync Crash
+Raikon220 | 210057227 | GTA Online | Net Sync Crash
+Jorkki555 | 192930055 | GTA Online | Frame Flags
+Fredi2007 | 164299579 | GTA Online | Frame Flags
+Zerty_offi | 206156364 | GTA Online | Frame Flags
+dimon12332 | 69133370 | GTA Online | Script Protection
 
