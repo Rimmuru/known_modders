@@ -6,7 +6,7 @@ SOCIALCLUB NAME | ROCKSTAR ID | TITLES ACTIVE IN | NOTES | Menu
 -Ann-Marie- | 58761407 | GTA Online | Invalid Object
 -Toast-9 | 131803068 | GTA Online | Net Sync Crash
 "Heineken" (Not real name) | 156091109(?) | GTA Online | Altered Host Token | 
-``Devil-_-Eyes`` | 87445908 | Red Dead Online |  | Ozark
+\``Devil-_-Eyes\`` | 87445908 | Red Dead Online |  | Ozark
 2h39fe | 199519873 | GTA Online | Suspicious Activity
 5_-_20 | 31083255 | GTA Online | RAC
 A_D_D_E_Z | 158348966 | GTA Online | SuperJump (Funny to troll) | 
